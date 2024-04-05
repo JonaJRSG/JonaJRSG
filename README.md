@@ -2,7 +2,7 @@
 ✔ Software engineering student. ✒️<br>
 ✔ JS, Python, TS  developer. 🔆<br>
 ✔ I am currently studying to do frontend, backend and data science. 🖥<br>
-✔ This profile also includes my website, but in a constant development version. Don't expect to see &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;functional things yet, haha. 🌐<br>
+✔ This profile also includes my website, but in a constant development version. Don't expect to see functional things yet, haha. 🌐<br>
 ✔ This is my personal GitHub, but I also have a professional one equally interesting. 🕓<br>
 ✔ This repository contains all my projects, both private and public. 💻<br>
 ✔ I also like hardware. ⚙️<br>
